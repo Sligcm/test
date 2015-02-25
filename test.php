@@ -1,1 +1,2 @@
-test
+<?php
+    echo 'Github test.';
